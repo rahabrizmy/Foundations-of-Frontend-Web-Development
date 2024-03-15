@@ -1,0 +1,18 @@
+body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #f4f4f4; padding: 20px; 
+} 
+h1 { font-size: 2.5em; color: #446688; 
+} 
+p { font-size: 1.1em; 
+} 
+.image-container {
+    display: flex;
+}
+
+.image-container img{
+    width: 10.33%;
+}
+
+body {
+    background: linear-gradient(to bottom,#f19b79,#ffffff);
+    height: 100vh;
+}
